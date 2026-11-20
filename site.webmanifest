@@ -1,0 +1,24 @@
+{
+  "id": "/",
+  "name": "DL Packers & Movers",
+  "short_name": "DL Packers",
+  "description": "Relocation services in Ballari, Karnataka.",
+  "lang": "en-IN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#F1F5F9",
+  "theme_color": "#F1F5F9",
+  "icons": [
+    {
+      "src": "/assets/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}
